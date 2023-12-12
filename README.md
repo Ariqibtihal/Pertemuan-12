@@ -71,5 +71,5 @@ while True:
 #### Keluar
 ![Alt text](Gambar/image-10.png)
 ### FLowchart 
-!![Alt text](Gambar/FLOWCHART.png)
+![Alt text](Gambar/FLOWCHART.png)
 # Terima kasih
